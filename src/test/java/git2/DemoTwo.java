@@ -23,5 +23,7 @@ public class DemoTwo {
 	//adding new method
 	public void divide(int a, int b) {
 		System.out.println(a/b);
+		
+		//Here is another comment after added the new method above
 }
 }
