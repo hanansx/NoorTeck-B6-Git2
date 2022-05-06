@@ -8,4 +8,8 @@ public class DemoTwo {
 		System.out.println("Git demo 2...");
 		System.out.println("second try..");
 	}
+	
+	public void add(int a, int b) {
+		System.out.println(a+b);
+	}
 }
