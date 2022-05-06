@@ -20,4 +20,7 @@ public class DemoTwo {
 		
 		//new code....
 	}
+	//adding new method
+	public void divide(int a, int b) {
+		System.out.println(a/b);
 }
